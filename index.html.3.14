@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>카피코 양에게 보내는 편지</title>
+</head>
+<body>
+    <h1>친애하는 카피코 양에게</h1>
+    <h2>첫인사</h2>
+    <p>안녕하세요. 저는 송다은이라고 합니다. </p>
+
+    <h2>자기소개</h2>
+    <img src="imgs/capyzou 복사본.png" alt="">
+   <p>자기소개를 하겠습니다</p> 
+    
+    <h3>■ 취미</h3>
+    <ul>
+        <li>영화 보기</li>
+        <li>책 읽기</li>
+        <li>노래 듣기</li>
+    </ul>
+    <h3>■기본 정보</h3>
+    <dl>
+        <dt>성명:</dt><dd>송다은</dd>
+        <dt>연령:</dt><dd>21세</dd>
+        <dt>직업:</dt><dd>학생</dd>
+    </dl>
+    <h3>■버킷리스트</h3>
+    <ol>
+        <li>세계일주하기</li>
+        <li>카페 차려서 여유롭게 살기</li>
+        <li>아이슬란드에 가서 오로라 보기</li>
+    </ol>
+    <h2>카피코 양에게 하고 싶은 말</h2>
+    <p>너무 귀엽습니다.</p>
+    
+    <h2>내가 좋아하는 것</h2>
+    <table>
+        <thead>
+            <tr><th>관심사</th><th>SNS</th><th>좋아하는 브팬드들</th></tr>
+        </thead>
+    
+        <tbody>
+            <tr><td>굿즈</td><td>인스타그램</td><td>MLB</td></tr>
+            <tr><td>캠핑</td><td>위버스</td><td>나이키</td></tr>
+            <tr><td>여행</td><td>유튜브</td><td>라코스테</td></tr>
+            <tr><td>산책</td><td>넷플릭스</td><td>스타벅스</td></tr>
+            <tr><td>영화</td><td>티빙</td><td>애플</td></tr>
+         </tbody> 
+    </table>
+    
+
+    <h2>학교</h2>
+    <p>한국폴리텍대학 서울 정수캠퍼스 제 3공학관 시각디자인과</p>
+
+    <address> 
+       
+        <p>
+        <a href="tell: 010-XXXX-XXXX"> 010-XXXX-XXXX</a>
+    </p>
+</address>
+   
+
+</body>
+</html>
